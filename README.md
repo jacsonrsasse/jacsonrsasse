@@ -1,4 +1,4 @@
-## Olá, eu sou o Jacson R. Sasse 🤙
+## Olá, eu sou o Jacson R. Sasse 🤙🖥️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacson-rodrigo-sasse-1a9742143)
 
@@ -17,6 +17,6 @@
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div><br/><br/><br/><br/>
 
-<p>Esta página está em construção ainda... Peço desculpas pelo transtorno!</p>
+<p>🔨Esta página está em construção ainda... Peço desculpas pelo transtorno!🔨</p>
 
 <!--- https://github.com/anuraghazra/github-readme-stats >
