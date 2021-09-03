@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacson-rodrigo-sasse-1a9742143)
 
-![Jacson R. Sasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacsonrsasse&show_icons=true&bg_color=000&title_color=fff&icon_color=79ff97&text_color=9f9f9f)
+![Jacson R. Sasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacsonrsasse&show_icons=true&bg_color=000&title_color=fff&icon_color=79ff97&text_color=9f9f9f&locale=pt-br&hide=contribs,stars)
 
 ### Tecnologias que utilizo
 <div style="display: inline-block">
