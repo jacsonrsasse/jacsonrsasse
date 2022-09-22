@@ -1,6 +1,20 @@
 ## Olá, eu sou o Jacson R. Sasse 🤙🖥️
 
+* Formado em Sistemas de Informação.
+* Desenvolvedor PHP com 5 anos de experiência.
+  * Atuando atualmente como Analista de Software, do setor Tributário, da IPM Sistemas.
+* Aspirante a desenvolvedor full stack.
+* Apaixonado por lógica de programação.
+
+<hr>
+
+### Redes Sociais
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacson-rodrigo-sasse-1a9742143)
+
+<hr>
+
+### Dashboard Github
 
 <div align="center">
   <a href="https://github.com/jacsonrsasse">
@@ -9,7 +23,9 @@
   </a>
 </div>
 
-### Tecnologias que utilizo
+<hr>
+
+### Tecnologias que estudo e acompanho
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
@@ -22,6 +38,5 @@
 </div>
 <br/><br/><br/><br/>
 
-<p>🔨Esta página está em construção ainda... Peço desculpas pelo transtorno!🔨</p>
 
 <!--- https://github.com/anuraghazra/github-readme-stats >
