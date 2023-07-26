@@ -1,9 +1,8 @@
 ## Olá, eu sou o Jacson R. Sasse 🤙🖥️
 
 * Formado em Sistemas de Informação.
-* Desenvolvedor PHP com 5 anos de experiência.
-  * Atuando atualmente como Analista de Software, do setor Tributário, da IPM Sistemas.
-* Aspirante a desenvolvedor full stack.
+* Desenvolvedor PHP com 6 anos de experiência.
+* No momento, atuando como Engenheiro de Software (fullstack).
 * Apaixonado por lógica de programação.
 
 <hr>
