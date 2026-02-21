@@ -14,15 +14,6 @@ I'm a software engineer passionate about solving problems and learning new techn
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacson-rodrigo-sasse-1a9742143)
 
-## Github Dashboard
-
-<div align="center">
-  <a href="https://github.com/jacsonrsasse">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacsonrsasse&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br&hide=contribs,stars"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacsonrsasse&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
-  </a>
-</div>
-
 ## Skills
 
 ### Backend
