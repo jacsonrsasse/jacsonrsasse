@@ -14,6 +14,7 @@ I'm a software engineer passionate about solving problems and learning new techn
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacson-rodrigo-sasse-1a9742143)
 
+<!--
 ## Skills
 
 ### Backend
@@ -47,5 +48,5 @@ I'm a software engineer passionate about solving problems and learning new techn
   <img align="center" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" />
   <img align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" />
 </div>
-
+>
 <!--- https://github.com/anuraghazra/github-readme-stats >
